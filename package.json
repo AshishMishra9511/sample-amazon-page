@@ -1,0 +1,19 @@
+{
+  "name": "sample_amazon_page",
+  "version": "1.0.0",
+  "description": "just a sample page from amazon ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ash-Mishra/Sample_HTML_CSS_page.git"
+  },
+  "author": "Ashish Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ash-Mishra/Sample_HTML_CSS_page/issues"
+  },
+  "homepage": "https://github.com/Ash-Mishra/Sample_HTML_CSS_page#readme"
+}
